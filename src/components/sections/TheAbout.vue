@@ -46,19 +46,19 @@
 						<div class="mb-5">
 							<div class="flex justify-between mb-2">
 								<span class="text-base font-medium text-gray-800">German - Native</span>
-								<span class="text-sm font-medium text-gray-800">95%</span>
+								<span class="text-sm font-medium text-gray-800">100%</span>
 							</div>
 							<div class="w-full bg-gray-200 rounded-full h-2.5">
-								<div class="bg-cyan-400 h-2.5 rounded-full" style="width: 95%"></div>
+								<div class="bg-cyan-400 h-2.5 rounded-full" style="width: 100%"></div>
 							</div>
 						</div>
 						<div class="mb-5">
 							<div class="flex justify-between mb-2">
 								<span class="text-base font-medium text-gray-800">English - Daily use</span>
-								<span class="text-sm font-medium text-gray-800">85%</span>
+								<span class="text-sm font-medium text-gray-800">90%</span>
 							</div>
 							<div class="w-full bg-gray-200 rounded-full h-2.5">
-								<div class="bg-cyan-400 h-2.5 rounded-full" style="width: 85%"></div>
+								<div class="bg-cyan-400 h-2.5 rounded-full" style="width: 90%"></div>
 							</div>
 						</div>
 						<h3 class="font-bold mb-4 text-center mt-11">Tools</h3>
@@ -74,10 +74,10 @@
 						<div class="mb-5">
 							<div class="flex justify-between mb-2">
 								<span class="text-base font-medium text-gray-800">Linux CLI</span>
-								<span class="text-sm font-medium text-gray-800">80%</span>
+								<span class="text-sm font-medium text-gray-800">90%</span>
 							</div>
 							<div class="w-full bg-gray-200 rounded-full h-2.5">
-								<div class="bg-cyan-400 h-2.5 rounded-full" style="width: 80%"></div>
+								<div class="bg-cyan-400 h-2.5 rounded-full" style="width: 90%"></div>
 							</div>
 						</div>
 					</div>
@@ -87,15 +87,24 @@
 						<div class="mb-5">
 							<div class="flex justify-between mb-2">
 								<span class="text-base font-medium text-gray-800">Java</span>
-								<span class="text-sm font-medium text-gray-800">90%</span>
+								<span class="text-sm font-medium text-gray-800">100%</span>
 							</div>
 							<div class="w-full bg-gray-200 rounded-full h-2.5">
-								<div class="bg-cyan-400 h-2.5 rounded-full" style="width: 90%"></div>
+								<div class="bg-cyan-400 h-2.5 rounded-full" style="width: 100%"></div>
 							</div>
 						</div>
 						<div class="mb-5">
 							<div class="flex justify-between mb-2">
 								<span class="text-base font-medium text-gray-800">JavaScript & HTML & CSS</span>
+								<span class="text-sm font-medium text-gray-800">100%</span>
+							</div>
+							<div class="w-full bg-gray-200 rounded-full h-2.5">
+								<div class="bg-cyan-400 h-2.5 rounded-full" style="width: 100%"></div>
+							</div>
+						</div>
+						<div class="mb-5">
+							<div class="flex justify-between mb-2">
+								<span class="text-base font-medium text-gray-800">PHP</span>
 								<span class="text-sm font-medium text-gray-800">85%</span>
 							</div>
 							<div class="w-full bg-gray-200 rounded-full h-2.5">
@@ -104,20 +113,11 @@
 						</div>
 						<div class="mb-5">
 							<div class="flex justify-between mb-2">
-								<span class="text-base font-medium text-gray-800">PHP</span>
-								<span class="text-sm font-medium text-gray-800">75%</span>
-							</div>
-							<div class="w-full bg-gray-200 rounded-full h-2.5">
-								<div class="bg-cyan-400 h-2.5 rounded-full" style="width: 75%"></div>
-							</div>
-						</div>
-						<div class="mb-5">
-							<div class="flex justify-between mb-2">
 								<span class="text-base font-medium text-gray-800">SQL</span>
-								<span class="text-sm font-medium text-gray-800">75%</span>
+								<span class="text-sm font-medium text-gray-800">85%</span>
 							</div>
 							<div class="w-full bg-gray-200 rounded-full h-2.5">
-								<div class="bg-cyan-400 h-2.5 rounded-full" style="width: 75%"></div>
+								<div class="bg-cyan-400 h-2.5 rounded-full" style="width: 85%"></div>
 							</div>
 						</div>
 						<div class="mb-5">
