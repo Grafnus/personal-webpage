@@ -11,7 +11,7 @@
 				</div>
 				<div class="grid lg:grid-cols-11 gap-4 mb-10">
 					<div class="col-span-4 font-light leading-loose">
-						<p class="mb-5">Hi, I'm a passionate Full-Stack Developer and a hobby System Administrator. I love to create my own litte programms or additions for platforms like Minecraft Spigot.</p>
+						<p class="mb-5">Hi, I'm a passionate Full-Stack Developer and a hobby System Administrator. I love to create my own litte programs or additions for platforms like Minecraft Spigot.</p>
 						<p class="mb-5 hidden">My other passion is the development of Websites and Webservices. Although no projects are publicly available (except for this one ;D), I like to create interactive and responsive Interfaces.</p>
 						<p>For me learning is the most fun. Thats why I love to explore the world of software, programming and selfhosting. I host my Webpages - like this one - and other Services myself and administrate them for family and friends.</p>
 					</div>

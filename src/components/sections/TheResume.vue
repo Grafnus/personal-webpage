@@ -34,7 +34,7 @@
 						</span>
 						<h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">School finished with Abitur (A-Levels/High-School Diploma)</h3>
 						<time class="block mb-2 text-sm font-normal leading-none text-gray-500 dark:text-gray-500">Started in 2005 - Finished in 2018</time>
-						<p class="text-base mt-6 font-normal text-gray-700 dark:text-gray-400">As most students I did not like school. But some subjects got me hooked. The most importent to me was the IT class. My passion for software development and IT is rooted in my time at school.</p>
+						<p class="text-base mt-6 font-normal text-gray-700 dark:text-gray-400">As most students I did not like school. But some subjects got me hooked. The most important to me was the IT class. My passion for software development and IT is rooted in my time at school.</p>
 					</li>
 				</ol>
 			</div>
