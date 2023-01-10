@@ -23,7 +23,7 @@
 							<p class="font-bold text-gray-800">Name</p>
 							<p class="mb-5 text-gray-400">Marvin (Hendrik) Schmidt</p>
 							<p class="font-bold text-gray-800">Age</p>
-							<p class="mb-5 text-gray-400">22</p>
+							<p class="mb-5 text-gray-400">23</p>
 							<p class="font-bold text-gray-800">Location</p>
 							<p class="mb-5 text-gray-400">Germany - Bremen</p>
 							<p class="font-bold text-gray-800">Job</p>
