@@ -18,7 +18,7 @@
 						</span>
 						<h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">Working as IT Specialist specialized in Software Development<span class="bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">Current Workplace</span></h3>
 						<time class="block mb-2 text-sm font-normal leading-none text-gray-500 dark:text-gray-500">Started July 15th, 2021</time>
-						<p class="mb-4 mt-6 text-base font-normal text-gray-700 dark:text-gray-400">Since I finished my apprenticeship in 2021 I work Full-Time as a Software Developer in the DevOps segment of the Rheinmetall Electronics GmbH. We are responsible for the Deployment of our own Software and the Building Infrastructure. We also develop some tools to help with company specific problems</p>
+						<p class="mb-4 mt-6 text-base font-normal text-gray-700 dark:text-gray-400">Since I finished my apprenticeship in 2021 I work fulltime as a software developer in the DevOps segment of the Rheinmetall Electronics GmbH. We are responsible for the deployment of our own software and the building infrastructure. We also develop some tools to help with company specific problems</p>
 					</li>
 					<li class="mb-16 ml-6">
 						<span class="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-stone-200 dark:ring-gray-900 dark:bg-blue-900">
@@ -26,7 +26,7 @@
 						</span>
 						<h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">Apprenticeship for IT Specialist specialized in Software Development</h3>
 						<time class="block mb-2 text-sm font-normal leading-none text-gray-500 dark:text-gray-500">Startd on September 1st, 2018 - Finished on July 14th, 2021</time>
-						<p class="text-base mt-6 font-normal text-gray-700 dark:text-gray-400">After finishing school I decided to get into an Apprenticeship at the Rheinmetall Electronics GmbH instead of going to University.</p>
+						<p class="text-base mt-6 font-normal text-gray-700 dark:text-gray-400">After finishing school I decided to get into an apprenticeship at the Rheinmetall Electronics GmbH instead of going to university.</p>
 					</li>
 					<li class="mb-16 ml-6">
 						<span class="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-stone-200 dark:ring-gray-900 dark:bg-blue-900">
@@ -34,7 +34,7 @@
 						</span>
 						<h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">School finished with Abitur (A-Levels/High-School Diploma)</h3>
 						<time class="block mb-2 text-sm font-normal leading-none text-gray-500 dark:text-gray-500">Started in 2005 - Finished in 2018</time>
-						<p class="text-base mt-6 font-normal text-gray-700 dark:text-gray-400">As most students I did not like school. But some subjects got me hooked. The most importent to me was the IT class. My passion for Software Development and IT is rooted in my time at school.</p>
+						<p class="text-base mt-6 font-normal text-gray-700 dark:text-gray-400">As most students I did not like school. But some subjects got me hooked. The most importent to me was the IT class. My passion for software development and IT is rooted in my time at school.</p>
 					</li>
 				</ol>
 			</div>
