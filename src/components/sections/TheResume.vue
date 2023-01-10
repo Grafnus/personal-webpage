@@ -18,7 +18,7 @@
 						</span>
 						<h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">Working as IT Specialist specialized in Software Development<span class="bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">Current Workplace</span></h3>
 						<time class="block mb-2 text-sm font-normal leading-none text-gray-500 dark:text-gray-500">Started July 15th, 2021</time>
-						<p class="mb-4 mt-6 text-base font-normal text-gray-700 dark:text-gray-400">Since I finished my apprenticeship in 2021 I work fulltime as a software developer in the DevOps segment of the Rheinmetall Electronics GmbH. We are responsible for the deployment of our own software and the building infrastructure. We also develop some tools to help with company specific problems</p>
+						<p class="mb-4 mt-6 text-base font-normal text-gray-700 dark:text-gray-400">Since I finished my apprenticeship in 2021 I work fulltime as a software developer in the DevOps segment of the Rheinmetall Electronics GmbH. We are responsible for the deployment of our own software and the building infrastructure. We also develop some tools to help with company specific problems.</p>
 					</li>
 					<li class="mb-16 ml-6">
 						<span class="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-stone-200 dark:ring-gray-900 dark:bg-blue-900">
